@@ -58,7 +58,6 @@ The pipeline addresses common data corruption challenges: sentinel placeholder v
 SWYNEX-Data-Analysis/
 ├── README.md
 └── Task-1-Data-Cleaning-Preparation/
-    ├── README.md
     ├── clean_cafe_sales.py
     ├── dirty_cafe_sales.csv
     └── cleaned_cafe_sales.csv
